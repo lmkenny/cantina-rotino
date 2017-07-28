@@ -1,14 +1,31 @@
 html{
-  font-size: 18px;
-}
-body{
   font-family: 'Cabin', sans-serif;
+  font-size: 18px;
   line-height: 32px;
 }
-Desktop Size
+h1{
+  line-height: 28px;
+}
+h2{
+  font-size: 32px;
+  line-height: 32px;
+}
+.passion{
+  font-size: 68.66px;
+  font-weight: 700;
+}
+.of{
+  font-size: 64px;
+  font-weight: 700;
+  transform: translateY(20px) translateX(-120px) rotate(270deg);
+}
+.italy{
+  font-size: 110px;
+  font-weight: 700;
+  letter-spacing: -6.13px;
+}
+/*Desktop Size
 html{
   font-size: 28px;
-}
-body{
-  line-height:44;
-}
+  line-height:44px;
+}*/
