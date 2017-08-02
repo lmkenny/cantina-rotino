@@ -28,8 +28,17 @@ h2{
   font-size: 157px;
   font-weight: 700;
 }
-/*Desktop Size
-html{
-  font-size: 28px;
-  line-height:44px;
-}*/
+/*Currently Set At Tachyons L size*/
+@media screen and (min-width: 60em){
+  html{
+    font-size: 28px;
+    line-height: 44px;
+  }
+  h1{
+    line-height: 28px;
+  }
+  h2{
+    font-size: 95.45px;
+    line-height: 88px;
+  }
+}
