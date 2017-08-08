@@ -3,6 +3,11 @@ html{
   font-size: 18px;
   line-height: 32px;
 }
+textarea{
+  font-family: 'Cabin', sans-serif;
+  font-size: 18px;
+  line-height: 32px;
+}
 h1{
   line-height: 28px;
 }
